@@ -1,0 +1,20 @@
+c:/boot.ini #查看系统版本 
+c:/windows/php.ini #php配置信息 
+c:/windows/my.ini #MYSQL配置文件，记录管理员登陆过的MYSQL用户名和密码 
+c:/winnt/php.ini 
+c:/winnt/my.ini 
+c:\mysql\data\mysql\user.MYD #mysql.user表中的数据库连接密码 
+c:\Program Files\RhinoSoft.com\Serv-U\ServUDaemon.ini #存储了虚拟主机网站路径和密码 
+c:\Program Files\Serv-U\ServUDaemon.ini 
+c:\windows\system32\inetsrv\MetaBase.xml #查看IIS的虚拟主机配置 
+c:\windows\repair\sam #WINDOWS系统初次安装的密码 
+c:\Program Files\ Serv-U\ServUAdmin.exe #6.0版本以前的serv-u管理员密码 
+c:\Program Files\RhinoSoft.com\ServUDaemon.exe 
+C:\Documents and Settings\All Users\Application Data\Symantec\pcAnywhere\*.cif文件  #存储了pcAnywhere的登陆密码 
+c:\Program Files\Apache Group\Apache\conf\httpd.conf 或C:\apache\conf\httpd.conf #查看WINDOWS系统apache文件 
+c:/Resin-3.0.14/conf/resin.conf #查看jsp开发的网站resin文件配置信息. 
+c:/Resin/conf/resin.conf /usr/local/resin/conf/resin.conf #查看linux系统配置的JSP虚拟主机 
+d:\APACHE\Apache2\conf\httpd.conf 
+C:\Program Files\mysql\my.ini 
+C:\mysql\data\mysql\user.MYD #存在MYSQL系统中的用户密码 
+C:\Windows\System32\drivers\etc\hosts
